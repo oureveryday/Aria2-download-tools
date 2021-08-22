@@ -16,6 +16,7 @@ All aria2 high speed download tools.
  * 1fichier: https://github.com/oureveryday/1fichier-dl-aria2 
  * KrakenFiles: https://github.com/oureveryday/py-kraken-aria2 
  * zippyshare: https://github.com/oureveryday/zippyshare-scraper-aria2 
+ * baidu: https://baidu.kinh.cc/ 
 
 ## Modded Aria2 Cilent 
  * Aria2 modded: https://github.com/oureveryday/aria2_Mod 
